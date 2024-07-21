@@ -1,0 +1,20 @@
+{
+  "short_name": "PWA App",
+  "name": "Sample PWA React application",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "AppIcon.jpeg",
+      "type": "image/jpeg",
+      "sizes": "474x347"
+    }    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d5f2e3",
+  "background_color": "#0a2463"
+}
